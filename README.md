@@ -87,7 +87,7 @@ The website is designed to work on:
 
 **Tanya Agarwal**
 
-Frontend Beginner | HTML & CSS Learner
+Frontend Beginner || HTML & CSS Learner
 
 ---
 
